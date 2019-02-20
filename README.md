@@ -1,14 +1,14 @@
-# Alan A. Wunsche, MBA, CPA, CA, BSc, CBP
+# Brad Kirby, CPA, CA, CBP
 
-![AAW](https://github.com/alanwunsche/bio/blob/master/alanwunsche-200.jpg)
+)
 
-CEO & Chief Token Officer, Co-Founder, [TokenFunder.com](https://www.TokenFunder.com) - "Building a Regulated CryptoFinance Ecosystem in the New World of Digital Finance"
+CEO & Chief Token Officer, Co-Founder, [DLTADVISORYHROUP.IO](https://www.dltadvisorygroup.io) - "Niche distributed ledger technology consylting firm"
 
-[Alan@TokenFunder.com](mailto:alan@tokenfunder.com) | [PGP Key](https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
+[Brad.Kirby@dltadvisorygroup.io](mailto:Brad.Kirby@dltadvisorygroup.io]) (https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
 
-[LinkedIn : https://LinkedIn.com/in/alanwunsche](https://LinkedIn.com/in/alanwunsche)
+[LinkedIn : https://LinkedIn.com/in/brad-kirby-dlt](https://LinkedIn.com/in/brad-kirby-dlt)
 
-Twitter: [@alanwunsche](https://twitter.com/alanwunsche) | Medium:  [@alanwunsche](https://medium.com/@alanwunsche) | Blog : [Algonomic](http://www.algonomic.com/blog/)
+Twitter: [@bradkirby8](https://twitter.com/bradkirby8) | Medium:  [@dltadvisorygroup](https://medium.com/@adltadvisorygroup
 
 ## Intro
 
@@ -30,13 +30,13 @@ Blockchain/Fintech Expert ▪ Transformation Leader & Innovation Evangelist with
 
 ## Professional Roles
 
-CEO, Co-Founder, Chief Token Officer, [TokenFunder](https://www.TokenFunder.com) (2016 - present)
+Founder, [DLT Advisory Group](https://www.dltadvisorygroup.io) (Mar 2018 - present)
 
-Canada Chair, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (2016 - present)
+Committee Member, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (Jan 2019 - present)
 
 Chair, Co-Founder, [Blockchain Canada](https://www.blockchaincanada.org) "Connecting Canadian Blockchain Innovators." (2016 - present)
 
-Member, CPA (Chartered Professional Accountants) Canada Audit Innovation Committee (2016 - present)
+Member, CPA (Chartered Professional Accountants)
 
 CEO, [Leading Knowledge Ltd.](http://www.leadingknowledge.com) Management consulting and product development services. (2001 - present)
 
