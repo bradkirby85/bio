@@ -3,7 +3,7 @@
 
 Founder, DLT Advisory Group [DLTADVISORYHROUP.IO](https://www.dltadvisorygroup.io) - "Niche distributed ledger technology {DLT} consulting firm."
 
-[Brad.Kirby@dltadvisorygroup.io](mailto:Brad.Kirby@dltadvisorygroup.io]) (https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
+Email: [Brad.Kirby@dltadvisorygroup.io](mailto:Brad.Kirby@dltadvisorygroup.io]) 
 
 [LinkedIn : https://LinkedIn.com/in/brad-kirby-dlt](https://LinkedIn.com/in/brad-kirby-dlt)
 
