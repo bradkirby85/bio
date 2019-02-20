@@ -1,8 +1,7 @@
 # Brad Kirby, CPA, CA, CBP
 
-)
 
-CEO & Chief Token Officer, Co-Founder, [DLTADVISORYHROUP.IO](https://www.dltadvisorygroup.io) - "Niche distributed ledger technology consylting firm"
+Founder, DLT Advisory Group [DLTADVISORYHROUP.IO](https://www.dltadvisorygroup.io) - "Niche distributed ledger technology {DLT} consulting firm."
 
 [Brad.Kirby@dltadvisorygroup.io](mailto:Brad.Kirby@dltadvisorygroup.io]) (https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
 
