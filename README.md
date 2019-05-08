@@ -4,9 +4,15 @@
 
 ## Intro
 
-Brad Kirby is the Founder of DLT Advisory Group, VP of Business Development at EDJX.io, Advisor & Mentor for various startups including Balamce, a member of ISO TC307 (Blockchain & Distributed Ledger Technologies) Standards Committee, and an Instructor at York University's Blockchain Hub, teaching Crypto Economics. He recently acted as a Ambassador during the inaugural Toronto Blockchain in May 2019. Brad is a fintech and blockchain technology visionary focused on disrupting traditional finance by building blockchain solutions that improve our antiquated capital market systems. Brad is a Chartered Professional Accountant with hands-on technology experience gained while leading finance, treaury and risk tech transformation programs at Canada's largest alternative asset manager (Brookfield Asset Management). Other relevant experiences include financial advisory services (Deloitte Cayman) including forensics, asset recovery, restructuring and involuntary hedge fund liquidations. His early responsibilities at Deloitte Canada focused on IT control audits at Canada's largest insurers and financial institutions. Brad launched his first start-up in 2005 at age 19 and sold millions of custom promotional pocket tissues to multi-national clients across North America, where they were distributed in various ways including NFL, NHL and MLB games. 
+Brad Kirby is the Founder of DLT Advisory Group, VP of Business Development at EDJX.io, and an Advisor & Mentor for various startups including Balance. He is also a member of ISO TC307 (Blockchain & Distributed Ledger Technologies) SCC Mirror Committee and an Instructor at York University's Lassonde School of Engineering, teaching Crypto Economic Analysis. He also recently volunteered as an Ambassador during the inaugural Toronto Blockchain Weeek in April 2019. 
 
-## Curent Projects
+Brad is a seasoned fintech and blockchain technology visionary, focused on disrupting traditional finance by building blockchain solutions that improve the antiquated capital markets systems. Brad is a Chartered Professional Accountant (CPA, CA) with hands-on technology experience gained while leading finance, treaury and risk technology transformation programs across Canada's largest alternative asset manager- Brookfield Asset Management, with over $300B AUM - from 2013 to 2018. At age 29, Brad was also the youngest signing officer at Brookfield. 
+
+Other relevant experiences include financial advisory services (Deloitte Cayman), where he practiced forensics, asset recovery, restructuring and contentious hedge fund liquidations post-2008. His early responsibilities at Deloitte Canada focused on IT control audits at Canada's largest insurers and financial institutions. 
+
+Brad also launched his first start-up in 2005 at age 19 and sold millions of promotional pocket tissues to multi-national clients across North America, where they were distributed in various ways including at NFL, NHL and MLB games. 
+
+## Current Projects
 
 <b>DLT Advisory Group</b> | Founder & Managing Partner | Toronto | Website: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io)  
 "Blockchain & DLT expertise, bridging the gap between finance and development." 
@@ -20,7 +26,7 @@ Brad Kirby is the Founder of DLT Advisory Group, VP of Business Development at E
 ## Other Current Responsibilities
 
 <b>York University - Lassonde School of Engineering</b> | Instructor - Crypto Economics | Toronto | Website: [CCAnt Program](https://theblockchainhub.com/ccant)  
-"Teaching crypto-economic analysis to various professionals through the Blockchain Hub at Lassonde School of Engineering"" 
+"Teaching crypto-economic analysis to various professionals through the Blockchain Hub at Lassonde School of Engineering." 
 
 <b>Toronto Blockchain Week</b> | Ambassador| Toronto | Website: [Toronto Blockchain Week](https://www.torontoblockchainweek.io/)  
 "Inaugural Toronto Blockchain Week was a major success with over 50 events and tens of thousands of attendees."
@@ -34,26 +40,6 @@ EDJX Email: [cryptobrad@edjx.io](mailto:brad@edjx.io)
 Cell: +1-647-205-9900
 
 LinkedIn: [Brad-Kirby-DLT](https://LinkedIn.com/in/brad-kirby-dlt) | Twitter: [@BradKirby8](https://twitter.com/bradkirby8) | Medium:  [@DLTAdvisoryGroup](https://medium.com/@dltadvisorygroup) 
-
-## History with Blockchain
-
-Jan 2011 - Introduced to Bitcoin - The FBI raided a Hedge Funds office and we shipped all hardware back to Deloitte's forensic lab in Cayman (we had been engaged as liquidators, responsible to receover assets). Data was receovered from a scorched hard drive which included "Bitcoin wallets" on the CEO's computer. I was tasked to research what these were, and concluded that we may be able to recover the wallet's seed phrase from the printer's hard drive. Successfully recovered 500 bitcoins; but only worth $500 at the time, therefore low priority to the $250M fraud. 
-
-July 2013 - Personal Deep Dive - While I had some time off before starting Brookfield, I researched all aspects of Bitcoin. I downloaded Bitcoin Core to start mining in Sept 2013. I know people who used Silk Road and my roommate was very Libertarian, so I needed to understand Bitcoin.
-
-January 2014 - Joined Bitcoin Toronto meetup as one of first 250 members - the same group that ultimately founded Ethereum, ran by Anthony Di Iorio (group now called Decentral). Notables: Vitalik Buterin was the [6th member] (https://www.meetup.com/decentral_ca/members/?sort=joined&op=all&desc=0) in Oct 2012, Joseph Lubin #11 in Jan 2013, William Mougayar #83 in Jun 2013, Trevor Koverko #93 Jul 2013, Russell Verbeeten #175 in Nov 2013. Mike Novogratz, #2,361, April 2019.
-
-April 2014 - [Invited to learn about Ethereum](https://drive.google.com/open?id=16RAR44diKjdWF_VB2YP2xdHJHOdbUyGl), dubbed "Bitcoin 2.0", and how to invest. I was not one of the [41 attendees](https://www.meetup.com/ethereumtoronto/events/175700092/#).
-
-Aug 2014 - Transferred nominal coins to Bitstamp. Hacked in early 2015. Lost faith in cryptocurrnecy but continued to follow.
-
-Oct 2017 - Interviewed with a Big 5 bank to join their Blockchain Lab; hiring freeze delayed.
-
-Mar 2018 - Left Brookfield to take the CBPro™ at York to focus 110% on DLT.
-
-## Full Bio
-
-[To Add]
 
 ## Professional Roles
 
@@ -79,6 +65,28 @@ Co-Founder, Hold'em Promotions (Sept. 2005 - Sept. 2019)
 
 Brad Kirby is a Chartered Professional Accountant (CPA,CA) and Member of the Chartered Professional Accountants of Ontario <Canada>. He holds a degree in Finance from the University of Western Ontario. He is a Certified Blockchain Professional with in-depth knowledge of distributed ledger technology.
   
+## History with Blockchain & Distributed Ledger Technology (DLT)
+
+Jan 2011 - Introduced to Bitcoin - The FBI raided a Hedge Funds office and we shipped all hardware back to Deloitte's forensic lab in Cayman (we had been engaged as liquidators, responsible to receover assets). Data was receovered from a scorched hard drive which included "Bitcoin wallets" on the CEO's computer. I was tasked to research what these were, and concluded that we may be able to recover the wallet's seed phrase from the printer's hard drive. Successfully recovered 500 bitcoins; but only worth $500 at the time, therefore low priority to the $250M fraud. 
+
+July 2013 - Personal Deep Dive - While I had some time off before starting Brookfield, I researched all aspects of Bitcoin. I downloaded Bitcoin Core to start mining in Sept 2013. I know people who used Silk Road and my roommate was very Libertarian, so I needed to understand Bitcoin.
+
+January 2014 - Joined Bitcoin Toronto meetup as one of first 250 members - the same group that ultimately founded Ethereum, ran by Anthony Di Iorio (group now called Decentral). Notables: Vitalik Buterin was the [6th member] (https://www.meetup.com/decentral_ca/members/?sort=joined&op=all&desc=0) in Oct 2012, Joseph Lubin #11 in Jan 2013, William Mougayar #83 in Jun 2013, Trevor Koverko #93 Jul 2013, Russell Verbeeten #175 in Nov 2013. Mike Novogratz, #2,361, April 2019.
+
+April 2014 - [Invited to learn about Ethereum](https://drive.google.com/open?id=16RAR44diKjdWF_VB2YP2xdHJHOdbUyGl), dubbed "Bitcoin 2.0", and how to invest. I was not one of the [41 attendees](https://www.meetup.com/ethereumtoronto/events/175700092/#).
+
+Aug 2014 - Transferred nominal coins to Bitstamp. Hacked in early 2015. Lost faith in cryptocurrnecy but continued to follow.
+
+Oct 2017 - Interviewed with a Big 5 bank to join their Blockchain Lab; hiring freeze delayed.
+
+Mar 2018 - Left Brookfield to take the CBPro™ at York to focus solely on DLT.
+
+## Full Bio
+
+[To Add]
+
+
+  
 ## Articles, Publications
 
 ### 2018
@@ -90,11 +98,13 @@ Brad Kirby is a Chartered Professional Accountant (CPA,CA) and Member of the Cha
   
 ## In the News
 
-[2005-10-02. "A Pack of Success". UWO Gazette.(http://www.usc.uwo.ca/gazette/generate_campus.asp?day=20&month=10&year=2005)
+[2005-10-02. "A Pack of Success". UWO Gazette](http://www.usc.uwo.ca/gazette/generate_campus.asp?day=20&month=10&year=2005)
 
 ## Presentations
 
-[To Add]
+2019-04-23 "Game Theory & Incentive Mechanisms". [LINK](https://drive.google.com/drive/folders/1baRSPo3Y-GgoUe7OFw8YrCZm53YZ5IFh)
+
+2019-03-06 "Cryptoeconomics & Project Valuation. [LINK](https://www.facebook.com/1103384039761487/posts/1774967809269770?sfns=mo)
 
 
 
