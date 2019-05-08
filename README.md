@@ -63,7 +63,7 @@ Manager, Financial Advisory Services, Deloitte Cayman (Sept 2010 - Aug 2013)
 
 Senior Associate, Assurance & Advisory, Deloitte Canada (Sept 2007 - Sept 2010)
 
-Co-Founder, Hold'em Promotions (Sept. 2005 - Sept. 2019)
+Co-Founder, Hold'em Promotions (Sept. 2005 - Sept. 2010)
 
 ## Professional Accomplishments
 
