@@ -2,7 +2,7 @@
 
 Founder & Managing Partner, DLT Advisory Group [DLTAdvisoryGroup.io](https://dltadvisorygroup.io) 
 
-![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby.jpg)
+![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby1.jpg)
 
 [Brad.Kirby@dltadvisorygroup.io](mailto:brad.kirby@dltadvisorygroup.io) 
 
