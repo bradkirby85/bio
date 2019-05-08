@@ -1,18 +1,16 @@
-# Alan A. Wunsche, MBA, CPA, CA, BSc, CBP
+# Brad Kirby, CPA, CA, CBP
 
-![AAW](https://github.com/alanwunsche/bio/blob/master/alanwunsche-200.jpg)
+Founder & Managing Partner, DLT Advisory Group [DLTAdvisoryGroup.io](https://dltadvisorygroup.io) 
 
-CEO & Chief Token Officer, Co-Founder, [TokenFunder.com](https://www.TokenFunder.com) - "Building a Regulated CryptoFinance Ecosystem in the New World of Digital Finance"
+[Brad.Kirby@dltadvisorygroup.io](mailto:brad.kirby@dltadvisorygroup.io) 
 
-[Alan@TokenFunder.com](mailto:alan@tokenfunder.com) | [PGP Key](https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
+[LinkedIn : https://LinkedIn.com/in/brad-kirby-dlt](https://LinkedIn.com/in/brad-kirby-dlt)
 
-[LinkedIn : https://LinkedIn.com/in/alanwunsche](https://LinkedIn.com/in/alanwunsche)
-
-Twitter: [@alanwunsche](https://twitter.com/alanwunsche) | Medium:  [@alanwunsche](https://medium.com/@alanwunsche) | Blog : [Algonomic](http://www.algonomic.com/blog/)
+Twitter: [@BradKirby8](https://twitter.com/bradkirby8) | Medium:  [@DLTAdvisoryGroup](https://medium.com/@dltadvisorygroup) 
 
 ## Intro
 
-Alan Wunsche is CEO & Chief Token Officer of [TokenFunder.com](https://www.TokenFunder.com), Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org) and Founding Canadian Chair of ISO TC307 (Blockchain & Distributed Ledger Technologies) Standards Committee. Alan is a finance and blockchain technology expert focused on the disruptive impacts of blockchain and cryptocurrencies on capital markets and global wealth distribution. He led TokenFunder's launch of Canada's first regulatory-compliant security token offering on the Ethereum public blockchain. Alan is a Chartered Professional Accountant with hands-on technology experience leading finance and risk transformation programs as an executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), incubators and startups.
+[To Add]
 
 ![AAW](https://github.com/alanwunsche/bio/blob/master/Wunsche-ProfessionalSummary.png)
 
@@ -30,65 +28,32 @@ Blockchain/Fintech Expert ▪ Transformation Leader & Innovation Evangelist with
 
 ## Professional Roles
 
-CEO, Co-Founder, Chief Token Officer, [TokenFunder](https://www.TokenFunder.com) (2016 - present)
+Founder & Managing Partner, DLT Advisory Grpoup (Mar 2018 - present)
 
-Canada Chair, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (2016 - present)
+VP of Market Development, EDJX.io (Sept 2018 - Present)
 
-Chair, Co-Founder, [Blockchain Canada](https://www.blockchaincanada.org) "Connecting Canadian Blockchain Innovators." (2016 - present)
+Advisory Board Member, Balance (Oct 2018 - Present)
 
-Member, CPA (Chartered Professional Accountants) Canada Audit Innovation Committee (2016 - present)
+Instructor, York University, Blockchain Hub (June 2019 - Present)
 
-CEO, [Leading Knowledge Ltd.](http://www.leadingknowledge.com) Management consulting and product development services. (2001 - present)
+Member, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (Jan 2019 - present)
 
-Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank (2010-2015)
+Director, Treasury & Capital Markets, Brookfield Assset Management (Sept 2013 - Mar 2018)
 
-Member of Board of Directors, Treasurer, Chair Strategic Planning Committee. Toronto Childrens Chorus. 2001-2010.
+Manager, Financial Advisory Services, Deloitte Cayman (Sept 2010 - Aug 2013)
 
-Senior Manager, Strategy and Operations Consulting. Finance Transformation and Performance Management. Deloitte. 2006-2009.
+Senior Associate, Assurance & Advisory, Deloitte Canada (Sept 2007 - Sept 2010)
 
-Executive in Residence. Innovations Foundations Exceler@tor (Technology Incubator). University of Toronto. 2002-2003.
-
-Vice-President, itemus. Technology Startup Portfolio. Public Company. 2000-2001
-
-Co-Founder, Brainbid.com. 1999-2000.
-
-Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Business Intelligence, Finance Transformation).  PricewaterhouseCoopers (PwC) Canada Management Consulting. 1991-2000. 
+Co-Founder, Hold'em Promotions (Sept. 2005 - Sept. 2019)
 
 ## In the News
 
-[Capitalism 3.0 (The Tokenism Release)](https://ncfacanada.org/pop-up-magazine-ncfa-blockchain-fintech-confidential-vol-1-issue-1/). ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) Blockchain and Fintech Confidential Magazine. National Fintech and Crowdfunding Association of Canada. January 2019.
 
-[SCOTIABANK DIGITAL BANKING LAB - TokenFunder Company Profile](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/blockchain-crypto/tokenfunder/). December 2018.
-
-[Podcast: FINTECH FRIDAY$ (EP.19-Nov 23): Future of Business Tokenization – How Blockchain Challenges Concept of Money with Alan Wunsche, Founder and CEO, Token Funder](https://ncfacanada.org/fintech-friday-ep-19-nov-23-future-of-business-tokenization-how-blockchain-challenges-concept-of-money-with-alan-wunsche-founder-and-ceo-token-funder/). November 2018.
-
-[Ivey Case Study | TokenFunder: Democratizing Funding and Investing with Blockchain](https://www.iveycases.com/ProductView.aspx?id=99305). Ivey Publishing. November 2018.
-
-[Understanding Digital Tokens: Market Overviews & Proposed Guidelines for Policymakers & Practitioners](https://digitalchamber.org/token-alliance-whitepaper/). ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [PDF](https://digitalchamber.org/download/7153/). Chamber of Digital Commerce. July 2018.
-
-[CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos) -- ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [Download PDF](https://github.com/alanwunsche/bio/blob/master/publications/Navigating-the-Brave-New-World-of-Cryptocurrency-and-ICOs-May2018.pdf) CPA Ontario Thought Leadership Series. May 2018.
-
-[TokenFunder Launches Canada’s First Regulated Security Token on the Ethereum Blockchain](https://tokenfunder.com/tokenfunder-launches-canadas-first-regulated-security-token-on-ethereum-blockchain/) May 2018.
-- Token Funder Inc. (“TokenFunder”) announces the launch of FNDR tokens, Canada’s first regulated security token on the Ethereum public blockchain. TokenFunder is a pioneer in the new world of digital finance, and leads the way on decentralization of tokenized assets, also known as cryptoassets.
-
-[Bank of Canada releases paper on merits of creating digital currency](https://www.theglobeandmail.com/report-on-business/economy/bank-of-canada-releases-white-paper-on-merits-of-creating-digital-currency/article37138388/). Globe and Mail. November 30, 2017.
-
-[Bank of Canada releases white paper on merits of creating digital currency](http://business.financialpost.com/news/economy/bank-of-canada-releases-white-paper-on-merits-of-creating-digital-currency-2). Financial Post. November 30, 2017.
-
-[BNN Interview: "All traditional institutions will use cryptocurrencies in the future"](http://www.bnn.ca/video/all-traditional-institutions-will-use-cryptocurrencies-in-the-future-tokenfunder-ceo~1245310). October 30, 2017.
-
-[OSC Invites OSC Invites TokenFunder to Play in the CSA Sandbox](https://www.lexology.com/library/detail.aspx?g=4b1bc43e-5c77-4b51-9644-2275256a9c11). Lexology. October 26, 2017.
-
-["Ontario’s first regulated token offering given go-ahead"](https://beta.theglobeandmail.com/report-on-business/ontarios-first-regulated-token-offering-given-go-ahead/article36697205/). Globe and Mail. October 23, 2017
-
-["Beyond cryptocurrency: There are new blockchain opportunities for SMBs"](http://business.financialpost.com/entrepreneur/beyond-cryptocurrency-there-are-new-blockchain-opportunities-for-smbs), Financial Post, September 19, 2017
 
 
 ## Professional Accomplishments
 
-Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the Chartered Professional Accountants of Ontario <Canada>. He holds a Bachelor of Science (Chemistry) from the University of Western Ontario and a Masters of Business Administration (MBA) from Ivey Business School (University of Western Ontario). He is a Certified Bitcoin Professional with in-depth knowledge of cryptocurrencies.
-
-
+Brad Kirby is a Chartered Professional Accountant (CPA,CA) and Member of the Chartered Professional Accountants of Ontario <Canada>. He holds a degree in Finance from the University of Western Ontario. He is a Certified Blockchain Professional with in-depth knowledge of distributed ledger technology.
 
 ## Presentations, Keynotes, Panels, Podcasts, Reports:
 
