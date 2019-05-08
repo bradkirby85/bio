@@ -43,6 +43,8 @@ LinkedIn: [Brad-Kirby-DLT](https://LinkedIn.com/in/brad-kirby-dlt) | Twitter: [@
 
 ## Professional Roles
 
+<b><u>Present</b></u>
+
 Founder & Managing Partner, DLT Advisory Grpoup (Mar 2018 - present)
 
 VP of Market Development, EDJX.io (Sept 2018 - Present)
@@ -52,6 +54,8 @@ Advisory Board Member, Balance (Oct 2018 - Present)
 Instructor, York University, Blockchain Hub (June 2019 - Present)
 
 Member, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (Jan 2019 - present)
+
+<b><u>Past</b></u>
 
 Director, Treasury & Capital Markets, Brookfield Assset Management (Sept 2013 - Mar 2018)
 
@@ -81,15 +85,9 @@ Oct 2017 - Interviewed with a Big 5 bank to join their Blockchain Lab; hiring fr
 
 Mar 2018 - Left Brookfield to take the CBPro™ at York to focus solely on DLT.
 
-## Full Bio
-
-[To Add]
-
-
-  
+ 
 ## Articles, Publications
 
-### 2018
 [Brad Kirby and Marc R. Arnould, “Taxation of Cryptocurrencies & Tokens: Simple, Yet Not So Simple, Taxation (Part 1)” (June 2018) Taxes & Wealth Management, Vol. 11, Issue 2 (Toronto: Thomson Reuters). P. 6-8](https://drive.google.com/open?id=1Y_TfVJQRkSUTx_d4XE8YZboO1Ci9JxbB)
 
 [Brad Kirby and Marc R. Arnould, “Taxation of Cryptocurrencies & Tokens: Forking Up the Taxes on Forks (Part 1)” (Oct 2018) Taxes & Wealth Management, Vol. 11, Issue 3 (Toronto: Thomson Reuters). P. 4-6](https://drive.google.com/open?id=1pNwxWQ0HxM7fWj8RaHAegqmhoNsKTm_6)
@@ -105,6 +103,10 @@ Mar 2018 - Left Brookfield to take the CBPro™ at York to focus solely on DLT.
 2019-04-23 "Game Theory & Incentive Mechanisms". [LINK](https://drive.google.com/drive/folders/1baRSPo3Y-GgoUe7OFw8YrCZm53YZ5IFh)
 
 2019-03-06 "Cryptoeconomics & Project Valuation. [LINK](https://www.facebook.com/1103384039761487/posts/1774967809269770?sfns=mo)
+
+## Full Bio
+
+[To Add]
 
 
 
