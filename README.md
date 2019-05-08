@@ -1,9 +1,10 @@
-# Brad Kirby, CPA, CA, CBP
+# Brad Kirby, CPA, CA, CBP              ![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)
 
-Founder & Managing Partner, <b>DLT Advisory Group</b> (Toronto) - Website: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io) 
+
+<b>DLT Advisory Group</b> | Founder & Managing Partner | Toronto | Website: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io) 
 "Blockchain & DLT expertise, bridging the gap between finance and development." 
 
-VP of Market Development, <b>EDJX</b> (Raleigh/Silicon Valley/Toronto - Website:[EDJX.io](https://edjx.io) 
+<b>EDJX</b> | VP of Market Development | Raleigh/Silicon Valley/Toronto | Website:[EDJX.io](https://edjx.io) 
 "Serverless edge computing secured by blockchain."
   
 Advisor, <b>Balance</b> (Toronto) - Website: [Balancenow.ca](https://balancenow.ca/custody)
