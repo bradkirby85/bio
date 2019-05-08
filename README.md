@@ -41,9 +41,9 @@ Jan 2011 - Introduced to Bitcoin - The FBI raided a Hedge Funds office and we sh
 
 July 2013 - Personal Deep Dive - While I had some time off before starting Brookfield, I researched all aspects of Bitcoin. I downloaded Bitcoin Core to start mining in Sept 2013. I know people who used Silk Road and my roommate was very Libertarian, so I needed to understand Bitcoin.
 
-January 2014 - Joined Bitcoin Toronto meetup as one of first 250 members - the same group that ultimately founded Ethereum, ran by Anthony Di Iorio (group now called Decentral). Notables: Vitalik Buterin was the [6th member] (https://www.meetup.com/decentral_ca/members/?sort=joined&op=all&desc=0) in Oct 2012, Joseph Lubin #11 in Jan 2013, William Mougayar #83 in Jun 2013, Trevor Koverko #93 Jul 2013, Russell Verbeeten #175 in Nov 2013.
+January 2014 - Joined Bitcoin Toronto meetup as one of first 250 members - the same group that ultimately founded Ethereum, ran by Anthony Di Iorio (group now called Decentral). Notables: Vitalik Buterin was the [6th member] (https://www.meetup.com/decentral_ca/members/?sort=joined&op=all&desc=0) in Oct 2012, Joseph Lubin #11 in Jan 2013, William Mougayar #83 in Jun 2013, Trevor Koverko #93 Jul 2013, Russell Verbeeten #175 in Nov 2013. Mike Novogratz, #2,361, April 2019.
 
-April 2014 - Invited to learn about Ethereum, dubbed "Bitcoin 2.0", and how to invest. I was not one of the 27 attendees.
+April 2014 - [Invited to learn about Ethereum](https://drive.google.com/open?id=16RAR44diKjdWF_VB2YP2xdHJHOdbUyGl), dubbed "Bitcoin 2.0", and how to invest. I was not one of the [41 attendees](https://www.meetup.com/ethereumtoronto/events/175700092/#).
 
 Aug 2014 - Transferred nominal coins to Bitstamp. Hacked in early 2015. Lost faith in cryptocurrnecy but continued to follow.
 
@@ -81,11 +81,16 @@ Brad Kirby is a Chartered Professional Accountant (CPA,CA) and Member of the Cha
   
 ## Articles, Publications
 
+### 2018
 [Brad Kirby and Marc R. Arnould, “Taxation of Cryptocurrencies & Tokens: Simple, Yet Not So Simple, Taxation (Part 1)” (June 2018) Taxes & Wealth Management, Vol. 11, Issue 2 (Toronto: Thomson Reuters). P. 6-8](https://drive.google.com/open?id=1Y_TfVJQRkSUTx_d4XE8YZboO1Ci9JxbB)
+
+[Brad Kirby and Marc R. Arnould, “Taxation of Cryptocurrencies & Tokens: Forking Up the Taxes on Forks (Part 1)” (Oct 2018) Taxes & Wealth Management, Vol. 11, Issue 3 (Toronto: Thomson Reuters). P. 4-6](https://drive.google.com/open?id=1pNwxWQ0HxM7fWj8RaHAegqmhoNsKTm_6)
+
+[Brad Kirby and Marc R. Arnould, “Taxation of Cryptocurrencies & Tokens: A direct, Pre-Sale, a SAFT & An ITO: An Immdiate Tax Obligation (Part 3)” (Nov 2018) Taxes & Wealth Management, Vol. 11, Issue 4 (Toronto: Thomson Reuters). P. 9-13](https://drive.google.com/open?id=1hk9e7IbNdJZ1IxFb7wCHthGDemO6ojvx)
   
 ## In the News
 
-[To Add]
+[2005-10-02. "A Pack of Success". UWO Gazette.(http://www.usc.uwo.ca/gazette/generate_campus.asp?day=20&month=10&year=2005)
 
 ## Presentations
 
