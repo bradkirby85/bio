@@ -3,6 +3,7 @@
 ![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)
 
 <b>DLT Advisory Group</b> | Founder & Managing Partner | Toronto | Website: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io) 
+
 "Blockchain & DLT expertise, bridging the gap between finance and development." 
 
 <b>EDJX</b> | VP of Market Development | Raleigh/Silicon Valley/Toronto | Website:[EDJX.io](https://edjx.io) 
