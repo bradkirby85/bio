@@ -1,6 +1,6 @@
 # Brad Kirby, CPA, CA, CBP  
 
-# <b><u>Curent Initiatives</u></b>
+## Curent Projects
 
 <b>DLT Advisory Group</b> | Founder & Managing Partner | Toronto | Website: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io)  
 "Blockchain & DLT expertise, bridging the gap between finance and development." 
@@ -10,6 +10,18 @@
   
 <b>Balance</b> | Advisor/Mentor | Toronto | Website: [Balancenow.ca](https://balancenow.ca/custody)  
 "Canada's first qualified institutional-grade digital asset custodian."
+
+## Other Responsibilities
+
+<b>York University - Lassonde School of Engineering</b> | Instructor - Crypto Economics | Toronto | Website: [CCAnt Program](https://theblockchainhub.com/ccant)  
+"Teaching crypto-economic analysis to various professionals through the Blockchain Hub at Lassonde School of Engineering"" 
+
+<b>Toronto Blockchain Week</b> | Ambassador| Toronto | Website: [Toronto Blockchain Week](https://www.torontoblockchainweek.io/)  
+"Inaugural Toronto Blockchain Week was a major success with over 50 events and tens of thousands of attendees."
+
+<b>ISO/TC307 : Blockchain and distributed ledger technologies</b> - Member, Standards Council of Canada
+
+## Contact & Social Media
 
 DLT Advisory Email: [Brad.Kirby@dltadvisorygroup.io](mailto:brad.kirby@dltadvisorygroup.io)  
 EDJX Email: [cryptobrad@edjx.io](mailto:brad@edjx.io)  
