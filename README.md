@@ -5,14 +5,14 @@
 <b>DLT Advisory Group</b> | Founder & Managing Partner | Toronto | Website: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io)  
 "Blockchain & DLT expertise, bridging the gap between finance and development." 
 
-<b>EDJX</b> | VP of Market Development | Raleigh/Silicon Valley/Toronto | Website:[EDJX.io](https://edjx.io)  
+<b>EDJX</b> | VP of Market Development | Raleigh/Silicon Valley/Toronto | Website: [EDJX.io](https://edjx.io)  
 "Serverless edge computing secured by blockchain."
   
-Advisor, <b>Balance</b> (Toronto) - Website: [Balancenow.ca](https://balancenow.ca/custody)  
-"Canada's first qualified institutional-grade digital asste custodian."
+<b>Balance</b> | Advisory/Mentor | Toronto | Website: [Balancenow.ca](https://balancenow.ca/custody)  
+"Canada's first qualified institutional-grade digital asset custodian."
 
-DLT Advisory Email: [Brad.Kirby@dltadvisorygroup.io](mailto:brad.kirby@dltadvisorygroup.io) 
-EDJX Email: [cryptobrad@edjx.io](mailto:brad@edjx.io) 
+DLT Advisory Email: [Brad.Kirby@dltadvisorygroup.io](mailto:brad.kirby@dltadvisorygroup.io)  
+EDJX Email: [cryptobrad@edjx.io](mailto:brad@edjx.io)  
 
 LinkedIn: [Brad-Kirby-DLT](https://LinkedIn.com/in/brad-kirby-dlt) | Twitter: [@BradKirby8](https://twitter.com/bradkirby8) | Medium:  [@DLTAdvisoryGroup](https://medium.com/@dltadvisorygroup) 
 
