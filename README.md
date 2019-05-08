@@ -20,6 +20,8 @@ LinkedIn: [Brad-Kirby-DLT](https://LinkedIn.com/in/brad-kirby-dlt) | Twitter: [@
 
 ![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)  
 
+Brad Kirby is the Founder of DLT Advisory Group, Co-Founder and VP of Business Development at EDJX.io, Member of ISO TC307 (Blockchain & Distributed Ledger Technologies) Standards Committee, and an Instructor at York University's Blockchain Hub teaching Crypto Economics.  Brad is a finance and blockchain technology expert focused on the disruptive impacts of blockchain and cryptocurrencies on capital markets and global wealth distribution. He . Alan is a Chartered Professional Accountant with hands-on technology experience leading finance and risk transformation programs as an executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), incubators and startups.
+
 
 ## Full Bio
 
