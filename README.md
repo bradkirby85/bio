@@ -1,5 +1,11 @@
 # Brad Kirby, CPA, CA, CBP  
 
+![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)  
+
+## Intro
+
+Brad Kirby is the Founder of DLT Advisory Group, VP of Business Development at EDJX.io, Advisor & Mentor for various startups including Balamce, a member of ISO TC307 (Blockchain & Distributed Ledger Technologies) Standards Committee, and an Instructor at York University's Blockchain Hub, teaching Crypto Economics. He recently acted as a Ambassador during the inaugural Toronto Blockchain in May 2019. Brad is a fintech and blockchain technology visionary focused on disrupting traditional finance by building blockchain solutions that improve our antiquated capital market systems. Brad is a Chartered Professional Accountant with hands-on technology experience gained while leading finance, treaury and risk tech transformation programs at Canada's largest alternative asset manager (Brookfield Asset Management). Other relevant experiences include financial advisory services (Deloitte Cayman) including forensics, asset recovery, restructuring and involuntary hedge fund liquidations. His early responsibilities at Deloitte Canada focused on IT control audits at Canada's largest insurers and financial institutions. Brad launched his first start-up in 2005 at age 19 and sold millions of custom promotional pocket tissues to multi-national clients across North America, where they were distributed in various ways including NFL, NHL and MLB games. 
+
 ## Curent Projects
 
 <b>DLT Advisory Group</b> | Founder & Managing Partner | Toronto | Website: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io)  
@@ -11,7 +17,7 @@
 <b>Balance</b> | Advisor/Mentor | Toronto | Website: [Balancenow.ca](https://balancenow.ca/custody)  
 "Canada's first qualified institutional-grade digital asset custodian."
 
-## Other Responsibilities
+## Other Current Responsibilities
 
 <b>York University - Lassonde School of Engineering</b> | Instructor - Crypto Economics | Toronto | Website: [CCAnt Program](https://theblockchainhub.com/ccant)  
 "Teaching crypto-economic analysis to various professionals through the Blockchain Hub at Lassonde School of Engineering"" 
@@ -24,15 +30,10 @@
 ## Contact & Social Media
 
 DLT Advisory Email: [Brad.Kirby@dltadvisorygroup.io](mailto:brad.kirby@dltadvisorygroup.io)  
-EDJX Email: [cryptobrad@edjx.io](mailto:brad@edjx.io)  
+EDJX Email: [cryptobrad@edjx.io](mailto:brad@edjx.io)
+Cell: +1-647-205-9900
 
 LinkedIn: [Brad-Kirby-DLT](https://LinkedIn.com/in/brad-kirby-dlt) | Twitter: [@BradKirby8](https://twitter.com/bradkirby8) | Medium:  [@DLTAdvisoryGroup](https://medium.com/@dltadvisorygroup) 
-
-## Intro
-
-![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)  
-
-Brad Kirby is the Founder of DLT Advisory Group, VP of Business Development at EDJX.io, Advisor & Mentor for various startups including Balamce, a member of ISO TC307 (Blockchain & Distributed Ledger Technologies) Standards Committee, and an Instructor at York University's Blockchain Hub, teaching Crypto Economics. He recently acted as a Ambassador during the inaugural Toronto Blockchain in May 2019. Brad is a fintech and blockchain technology visionary focused on disrupting traditional finance by building blockchain solutions that improve our antiquated capital market systems. Brad is a Chartered Professional Accountant with hands-on technology experience gained while leading finance, treaury and risk tech transformation programs at Canada's largest alternative asset manager (Brookfield Asset Management). Other relevant experiences include financial advisory services (Deloitte Cayman) including forensics, asset recovery, restructuring and involuntary hedge fund liquidations. His early responsibilities at Deloitte Canada focused on IT control audits at Canada's largest insurers and financial institutions. Brad launched his first start-up in 2005 at age 19 and sold millions of custom promotional pocket tissues to multi-national clients across North America, where they were distributed in various ways including NFL, NHL and MLB games. 
 
 ## History with Blockchain
 
@@ -78,6 +79,10 @@ Co-Founder, Hold'em Promotions (Sept. 2005 - Sept. 2019)
 
 Brad Kirby is a Chartered Professional Accountant (CPA,CA) and Member of the Chartered Professional Accountants of Ontario <Canada>. He holds a degree in Finance from the University of Western Ontario. He is a Certified Blockchain Professional with in-depth knowledge of distributed ledger technology.
   
+## Articles, Publications
+
+[To Add]
+  
 ## In the News
 
 [To Add]
@@ -86,8 +91,6 @@ Brad Kirby is a Chartered Professional Accountant (CPA,CA) and Member of the Cha
 
 [To Add]
 
-## Articles, Publications
 
-[To Add]
 
 
