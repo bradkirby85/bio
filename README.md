@@ -1,5 +1,6 @@
-# Brad Kirby, CPA, CA, CBP              ![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)
+# Brad Kirby, CPA, CA, CBP   
 
+![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)
 
 <b>DLT Advisory Group</b> | Founder & Managing Partner | Toronto | Website: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io) 
 "Blockchain & DLT expertise, bridging the gap between finance and development." 
@@ -9,8 +10,6 @@
   
 Advisor, <b>Balance</b> (Toronto) - Website: [Balancenow.ca](https://balancenow.ca/custody)
 "Canada's first qualified institutional-grade digital asste custodian."
-
-![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)
 
 DLT Advisory Email: [Brad.Kirby@dltadvisorygroup.io](mailto:brad.kirby@dltadvisorygroup.io) 
 EDJX Email: [cryptobrad@edjx.io](mailto:brad@edjx.io) 
