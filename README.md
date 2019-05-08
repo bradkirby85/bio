@@ -1,6 +1,6 @@
-# Brad Kirby, CPA, CA, CBP   
+# Brad Kirby, CPA, CA, CBP  
 
-![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)
+# <b><u>Curent Initiatives</u></b>
 
 <b>DLT Advisory Group</b> | Founder & Managing Partner | Toronto | Website: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io)  
 "Blockchain & DLT expertise, bridging the gap between finance and development." 
@@ -18,7 +18,8 @@ LinkedIn: [Brad-Kirby-DLT](https://LinkedIn.com/in/brad-kirby-dlt) | Twitter: [@
 
 ## Intro
 
-[To Add]
+![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)  
+
 
 ## Full Bio
 
