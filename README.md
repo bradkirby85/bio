@@ -1,14 +1,14 @@
 # Brad Kirby, CPA, CA, CBP
 
-Founder & Managing Partner, DLT Advisory Group [DLTAdvisoryGroup.io](https://dltadvisorygroup.io) 
+Founder & Managing Partner, DLT Advisory Group, Toronto <b>Website<b>: [DLTAdvisoryGroup.io](https://dltadvisorygroup.io) 
+VP of Market Development, EDJX, Raleigh/Silicon Valley/Toronto Website:[EDJX.io](https://edjx.io) 
+Advisor, Balance, Toronto [Balancenow.ca](https://balancenow.ca/custody)
 
-![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby1.jpg)
+![AAW](https://github.com/bradkirby85/bio/blob/master/Pics/BradKirby2.jpg)
 
 [Brad.Kirby@dltadvisorygroup.io](mailto:brad.kirby@dltadvisorygroup.io) 
 
-[LinkedIn : https://LinkedIn.com/in/brad-kirby-dlt](https://LinkedIn.com/in/brad-kirby-dlt)
-
-Twitter: [@BradKirby8](https://twitter.com/bradkirby8) | Medium:  [@DLTAdvisoryGroup](https://medium.com/@dltadvisorygroup) 
+LinkedIn: [Brad-Kirby-DLT](https://LinkedIn.com/in/brad-kirby-dlt) | Twitter: [@BradKirby8](https://twitter.com/bradkirby8) | Medium:  [@DLTAdvisoryGroup](https://medium.com/@dltadvisorygroup) 
 
 ## Intro
 
