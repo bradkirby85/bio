@@ -81,7 +81,7 @@ Brad Kirby is a Chartered Professional Accountant (CPA,CA) and Member of the Cha
   
 ## Articles, Publications
 
-[To Add]
+[Brad Kirby and Marc R. Arnould, “Taxation of Cryptocurrencies & Tokens: Simple, Yet Not So Simple, Taxation (Part 1)” (June 2018) Taxes & Wealth Management, Vol. 11, Issue 2 (Toronto: Thomson Reuters). P. 6-8](https://drive.google.com/open?id=1Y_TfVJQRkSUTx_d4XE8YZboO1Ci9JxbB)
   
 ## In the News
 
